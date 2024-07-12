@@ -1,3 +1,6 @@
+# Data Change Log
+
+### 2024-07-12
 Simplifications made from  original  [Ruggiero et al. 2015 ](https://www.checklistbank.org/dataset/294066/about)
 
 -  Arachnida [class] #  "should" be under Euchelicerata [class]
