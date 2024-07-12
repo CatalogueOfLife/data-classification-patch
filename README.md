@@ -1,7 +1,7 @@
 
 # Data classification patch
 A small [TextTree](https://github.com/gbif/text-tree) dataset that acts as a "patch" dataset for the hihger taxonomy  Catalogue of Life extended release
-It is hosted in Checklistbank at: https://www.dev.checklistbank.org/dataset/{dataset}
+It is hosted in Checklistbank at: https://www.dev.checklistbank.org/dataset/299728
 
 ## Files
 The main taxonomy tree lives in [taxonomy.txtree](taxonomy.txtree). 
