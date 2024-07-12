@@ -1,5 +1,7 @@
-# data-template-textree
-A template for [ChecklistBank](https://www.checklistbank.org) dataset repositories using the simple [TextTree format](https://github.com/gbif/text-tree).
+
+# Data classification patch
+A small [TextTree](https://github.com/gbif/text-tree) dataset that acts as a "patch" dataset for the hihger taxonomy  Catalogue of Life extended release
+It is hosted in Checklistbank at: https://www.dev.checklistbank.org/dataset/{dataset}
 
 ## Files
 The main taxonomy tree lives in [taxonomy.txtree](taxonomy.txtree). 
