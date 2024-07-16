@@ -1,5 +1,9 @@
 # Data Change Log
 
+### 2024-07-16
+
+Changes to reflect more recent revision of Chelicerata on [ITIS](https://github.com/CatalogueOfLife/data/issues/648)
+
 ### 2024-07-12
 Simplifications made from  original  [Ruggiero et al. 2015 ](https://www.checklistbank.org/dataset/294066/about)
 
