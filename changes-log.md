@@ -1,5 +1,9 @@
 # Data Change Log
 
+### 2024-07-24
+
+The higher taxonomy of Hymenoptera was added acording to [ITIS](https://www.checklistbank.org/dataset/2144/classification?taxonKey=152741) to include infraorders. This was motivated by [this issue](https://github.com/gbif/backbone-feedback/issues/1).
+
 ### 2024-07-16
 
 Changes to reflect more recent revision of Chelicerata on [ITIS](https://github.com/CatalogueOfLife/data/issues/648)
