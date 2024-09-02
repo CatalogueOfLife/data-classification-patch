@@ -31,9 +31,9 @@ version: 1.0.0
 contact: 
     given: Camila
     family: Plata
-    email: camila.plata@sp2000.org
-    city: Bogota
-    country: Columbia
+    email: camila.plata@catalogueoflife.org
+    city: Bogotá
+    country: Colombia
 
 
 # Creators of the dataset. Will be treated as authors in the default citation!
@@ -42,12 +42,12 @@ contact:
 creator:
   - given: Camila
     family: Plata
-    email: camila.plata@sp2000.org
-    city: Bogota
-    country: Columbia
+    email: camila.plata@catalogueoflife.org
+    city: Bogotá
+    country: Colombia
   - given: Diana
     family: Hernandez
-    email: diana.hernandez@sp2000.org
+    email: diana.hernandez@catalogueoflife.org
     city: Mexico City
     country: Mexico
   - given: Markus
