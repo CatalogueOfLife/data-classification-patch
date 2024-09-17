@@ -1,5 +1,9 @@
 # Data Change Log
 
+### 2024-09-16
+
+Add Algae higher classification (phylum to tribe) base from Worms and addapted acoording to [Guiry 2024](https://onlinelibrary.wiley.com/doi/full/10.1111/jpy.13431)
+
 ### 2024-07-24
 
 The higher taxonomy of Hymenoptera was added acording to [ITIS](https://www.checklistbank.org/dataset/2144/classification?taxonKey=152741) to include infraorders. This was motivated by [this issue](https://github.com/gbif/backbone-feedback/issues/1).
