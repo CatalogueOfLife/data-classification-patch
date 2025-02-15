@@ -4,7 +4,7 @@ identifier:
   clb: 299728
   
 title: Catalogue of Life classification patch
-alias: COL_CL_PATCH
+alias: COL CL-Patch
 
 description: | 
     A small dataset that acts as a gap filler in extended releases
@@ -14,6 +14,8 @@ keyword:
   - COL
   - Classification
   - Arthropoda
+  - patch
+  - gap
 
 # Official release date of this version in ISO YYYY-MM-DD. Will be part of the default citation!
 issued: 2024-07-12
