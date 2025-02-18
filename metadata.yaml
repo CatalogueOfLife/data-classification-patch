@@ -7,8 +7,7 @@ title: Catalogue of Life classification patch
 alias: COL CL-Patch
 
 description: | 
-    A small dataset that acts as a gap filler for the management classification of the Catalogue of Life eXtended Release.
-    Currently it is focused in better representing Arthropoda's classification down to order. 
+    A small dataset that acts as a gap filler for the management classification of the Catalogue of Life eXtended Release. Currently, it is focused on better representing Arthropoda's classification down to order. It is a high-priority merge sector, so it can help to place other sources better.
 
 keyword: 
   - COL
