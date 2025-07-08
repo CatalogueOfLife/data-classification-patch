@@ -1,5 +1,10 @@
 # Data Change Log
 
+### 2025-07-08
+
+- Algae was removed in 2024 in favor of adding specific dinamic sector intead of a static Patch
+- Coleoptera test was added and removed during 2025
+
 ### 2024-09-16
 
 Add Algae higher classification (phylum to tribe) base from Worms and addapted acoording to [Guiry 2024](https://onlinelibrary.wiley.com/doi/full/10.1111/jpy.13431)
