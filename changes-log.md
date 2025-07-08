@@ -2,8 +2,12 @@
 
 ### 2025-07-08
 
-- Algae was removed in 2024 in favor of adding specific dinamic sector intead of a static Patch
-- Coleoptera test was added and removed during 2025
+- Due to several Hymenoptera incertae sedis names the Hymenoptera classification was reviewed starting from the family Diapioidea, this lead to a uopded of the infraorders, subfamilies  the same.
+- Update Myriapoda base on Millibase and Myryatrix, Euthycarcinoidea† [class] was added, this class is not part of [Ruggiero et al. 2015 ](https://www.checklistbank.org/dataset/294066/about)
+
+Previous undocumented changes
+- Algae was removed in 2024 in favor of adding specific dinamic sector instead of a static Patch
+- Coleoptera test was added and removed during 2025 as Bouchards classification became part of the base release
 
 ### 2024-09-16
 
